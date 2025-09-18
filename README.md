@@ -7,16 +7,12 @@
 <tr><td>
 <font face="Verdana,Arial,Hevetica" size=-1>
 
-<!-- begin of content -->
-<UL>
-<LI> Ph.D. in Computer Engineering ('07)('04)('02)
-</UL>
-
 <h4><font color="#0000ff"> Research Interest </font></h4>
 <UL>
 <LI> <a href="./Python/python.html">Python</a>
-<LI> <a href="./Opencv/python/opencv.html">OpenCV with Python</a>
-<LI> OpenGL with Python
+  <LI> <a href="./Python/python.html">MFC</a>
+<LI> <a href="./Opencv/python/opencv.html">OpenCV</a>
+<LI> OpenGL
 <LI> <a href="./flutter/flutter.html">Flutter</a>
 </UL>
 
