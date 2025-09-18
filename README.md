@@ -22,33 +22,8 @@ A:hover {text-decoration:underline; color:blue}
 <font face="Verdana,Arial,Hevetica" size=-1>
 
 <!-- begin of content -->
-<br>
-<br>
-<a href="http://gdsu.dongseo.ac.kr/">
-<img src="knw.jpg" vspace=2 hspace=20 width=95 height=120 align=left border=0>
-</a>
-Nam-Woo Kim, 
-Professor
-<br><br>
-<a href="https://uni.dongseo.ac.kr/computereng/">Computer Engineering</a>,<br>
-<a href="https://uni.dongseo.ac.kr/software/">College of Software Convergence</a>,<br>
-<a href="http://www.dongseo.ac.kr">Dongseo University</a><br>
-ChuryeRo 47, SasangGu, Busan 47011, Republic of Korea
-<br>
-Tel.82-51-320-4219 Fax.82-51-320-4209<br>
-e-mail : <a href="mailto:nwkim@dongseo.ac.kr">nwkim@dongseo.ac.kr</a>
-<br>
-<br>
-
 <UL>
-<LI> Ph.D. in Computer Engineering, Dongseo Univ.('07)
-<LI> M.S. in Computer Engineering, Dongseo Univ.('04)
-<LI> B.S. in Computer Engineering, Dongseo Univ.('02)
-</UL>
-
-<h4><font color="#0000ff"> Experience </font></h4>
-<UL>
-<LI> C.E.O., <a href="http://www.epin.co.kr/">Epin Co.,Ltd.</a> ('09 ~ '20)
+<LI> Ph.D. in Computer Engineering ('07)('04)('02)
 </UL>
 
 <h4><font color="#0000ff"> Research Interest </font></h4>
@@ -62,34 +37,6 @@ e-mail : <a href="mailto:nwkim@dongseo.ac.kr">nwkim@dongseo.ac.kr</a>
 <h4><font color="#0000ff"> Member Editorial Boards</font></h4>
 <UL>
 <LI> <a href = "http://www.ksiam.org">Journal of the Korean Society for Industrial and Applied Mathematics</a> 
-</UL>
-
-<h4><font color="#0000ff"> Conferences </font></h4>
-<UL>
-<li> <a href="https://sites.google.com/site/icmita2017/">MITA2017</a>, MMU, Kuala Lumpur, Malaysia, July 9~11, 2017
-<br>
-<br>
-<a href = "conferencelist.html">more</a>...
-</UL>
-
-<h4><font color="#0000ff"> Publication and International Conference></font></h4>
-<UL type=1>
-<LI>I J Jung, E J Choi, B G Lee, J W Kim,
-"<a href="https://link.springer.com/article/10.1007%2Fs00198-021-05841-6">Population-based, three-dimensional analysis of age- and sex-related femur shaft geometry differences</a>", Osteoporos Int, Jan 26, 2021.
-<br>
-<br>
-<a href = "paperlist.html">more</a>...
-</UL> 
-
-<h4><font color="#0000ff"> Lecture Notes </font></h4>
-<UL>
-<LI><a href="http://www.robots.ox.ac.uk/~vgg/">Visual Geometry Group</a>, 
-<a href="http://www.ox.ac.uk/">University of Oxford</a> <br>
-<LI><a href="./Mobile/mobile.pptx">Mobile Programming</a> <br>
-<LI><a href="./Fintech/fintech_0305.pptx">Introduction to Fintech</a> <br>
-<LI><a href="./IPP/ipp_graphics.pptx">Computer Graphics</a> <br>
-<br>
-<a href = "lectures.html">more</a>...
 </UL>
 
 <h4><font color="#0000ff">YouTube</font></h4>
