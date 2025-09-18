@@ -1,4 +1,4 @@
-## Hi there 👋
+## DSU AIM Lab 👋
 
 <!--
 **fenjer75/fenjer75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
